@@ -56,4 +56,8 @@ the Google Cloud Console](https://console.cloud.google.com/appengine/versions).
 * See [LICENSE](LICENSE)
 
 Java is a registered trademark of Oracle Corporation and/or its affiliates.
-
+SOLVE PROBLEM
+<plugin>
+<groupId>org.apache.maven.plugins</groupId>
+<artifactId>maven-war-plugin</artifactId>
+<version>3.1.0</version>
